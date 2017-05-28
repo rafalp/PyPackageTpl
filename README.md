@@ -1,2 +1,0 @@
-# PyPackageTpl
-Python package template.
